@@ -29,7 +29,7 @@ for value in range(140,190,10):
     # Define the contrast and brightness adjustment parameters
     alpha = 1.5  # Contrast control (1.0-3.0)
     beta = 30    # Brightness control (0-100)
-
+ 
     # Apply contrast and brightness adjustment
     dark_sketch = cv2.convertScaleAbs(sketch, alpha=alpha, beta=beta)
     output_image = "{}_sketch{}".format(image_name_without_extension,count)
