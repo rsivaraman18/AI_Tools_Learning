@@ -1,0 +1,3 @@
+1.We used the Python 3.9.6 Version.
+2.Here Image once selected by the User,then 5 multiple gray Scale Image Will Be created and saved in the Sketched Image Folder.
+3.Any Image .jpg,.jpeg,.png can be used and any format can be saved .
