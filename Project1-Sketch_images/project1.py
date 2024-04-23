@@ -36,6 +36,6 @@ for value in range(140,190,10):
     count = count + 1
     #output_location = "Sketched_Images/{}.jpg".format(output_image)      # JPG
     output_location = "Sketched_Images/{}.png".format(output_image)        #png
-    
+     
     cv2.imwrite(output_location, dark_sketch)
     print(f"Image sketch saved at: {output_location}")
