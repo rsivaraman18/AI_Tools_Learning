@@ -1,5 +1,5 @@
 import cv2,os
-
+ 
 #input_image_path = r"D:\Siva\2.My-Learnings\02_Siva_Learnings\Project1\Trained_Images\Image2.jpg"
 
 input_image_path = "Trained_Images\Image2.jpg"
